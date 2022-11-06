@@ -1,5 +1,5 @@
 def dive_pt():
-    with open("inputpt1.txt", 'r') as f:
+    with open("input.txt", 'r') as f:
         depth = 0
         horizontal = 0
         lines = f.readlines()
